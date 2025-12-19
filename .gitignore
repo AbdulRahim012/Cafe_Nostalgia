@@ -1,0 +1,32 @@
+# Rails
+rails_api/log/*
+rails_api/tmp/*
+rails_api/.env
+rails_api/vendor/bundle
+rails_api/.bundle
+rails_api/.byebug_history
+rails_api/.DS_Store
+rails_api/config/master.key
+
+# Python
+python_service/__pycache__/
+python_service/*.pyc
+python_service/*.pyo
+python_service/*.pyd
+python_service/.Python
+python_service/venv/
+python_service/env/
+python_service/.env
+python_service/.pytest_cache/
+python_service/.mypy_cache/
+python_service/.coverage
+
+# General
+.DS_Store
+*.log
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
